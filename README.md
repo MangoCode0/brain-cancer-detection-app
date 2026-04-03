@@ -1,16 +1,15 @@
-# Brain Tumor Classification using Gene Expression Data
-
-## 📌 Description
+# Brain Tumor Classification using Gene Expression 
+# Description
 This project predicts brain tumor type using gene expression data.
 
-## ⚙️ Technologies Used
+# Technologies Used
 - Python
 - Scikit-learn
 - PCA
 - Random Forest
 - Streamlit
 
-## 🚀 How to Run
+# How to Run
 
 1. Train model:
    python train.py
@@ -18,6 +17,6 @@ This project predicts brain tumor type using gene expression data.
 2. Run app:
    streamlit run app.py
 
-## 🧠 Model
+# Model
 - PCA for feature reduction
 - Random Forest for classification
